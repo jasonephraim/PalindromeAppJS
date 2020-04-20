@@ -1,2 +1,0 @@
-# PalindromeAppJS
-Palindrome checker assignment
